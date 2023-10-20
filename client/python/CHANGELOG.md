@@ -1,5 +1,11 @@
 # gradio_client
 
+## 0.7.0-beta.1
+
+### Features
+
+- [#5970](https://github.com/gradio-app/gradio/pull/5970) [`0c571c044`](https://github.com/gradio-app/gradio/commit/0c571c044035989d6fe33fc01fee63d1780635cb) - Add json schema unit tests.  Thanks [@freddyaboulton](https://github.com/freddyaboulton)!
+
 ## 0.7.0-beta.0
 
 ### Features

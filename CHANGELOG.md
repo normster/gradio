@@ -1,5 +1,18 @@
 # gradio
 
+## 3.45.0-beta.14
+
+### Features
+
+- [#5970](https://github.com/gradio-app/gradio/pull/5970) [`0c571c044`](https://github.com/gradio-app/gradio/commit/0c571c044035989d6fe33fc01fee63d1780635cb) - Add json schema unit tests.  Thanks [@freddyaboulton](https://github.com/freddyaboulton)!
+- [#6016](https://github.com/gradio-app/gradio/pull/6016) [`83e947676`](https://github.com/gradio-app/gradio/commit/83e947676d327ca2ab6ae2a2d710c78961c771a0) - Format js in v4 branch.  Thanks [@freddyaboulton](https://github.com/freddyaboulton)!
+- [#6014](https://github.com/gradio-app/gradio/pull/6014) [`cad537aac`](https://github.com/gradio-app/gradio/commit/cad537aac57998560c9f44a37499be734de66349) - pass props to example components and to example outputs.  Thanks [@pngwn](https://github.com/pngwn)!
+- [#5961](https://github.com/gradio-app/gradio/pull/5961) [`be2ed5e13`](https://github.com/gradio-app/gradio/commit/be2ed5e13222cbe5013b63b36685987518034a76) - File upload optimization.  Thanks [@freddyaboulton](https://github.com/freddyaboulton)!
+- [#5968](https://github.com/gradio-app/gradio/pull/5968) [`6b0bb5e6a`](https://github.com/gradio-app/gradio/commit/6b0bb5e6a252ce8c4ef38455a9f56f1dcda56ab0) - Removes deprecated arguments and parameters from v4.  Thanks [@abidlabs](https://github.com/abidlabs)!
+- [#6027](https://github.com/gradio-app/gradio/pull/6027) [`de18102b8`](https://github.com/gradio-app/gradio/commit/de18102b8ca38c1d6d6edfa8c0571b81089166bb) - V4: Fix component update bug.  Thanks [@freddyaboulton](https://github.com/freddyaboulton)!
+- [#5996](https://github.com/gradio-app/gradio/pull/5996) [`9cf40f76f`](https://github.com/gradio-app/gradio/commit/9cf40f76fed1c0f84b5a5336a9b0100f8a9b4ee3) - V4: Simple dropdown.  Thanks [@freddyaboulton](https://github.com/freddyaboulton)!
+- [#5990](https://github.com/gradio-app/gradio/pull/5990) [`85056de5c`](https://github.com/gradio-app/gradio/commit/85056de5cd4e90a10cbfcefab74037dbc622b26b) - V4: Simple textbox.  Thanks [@freddyaboulton](https://github.com/freddyaboulton)!
+
 ## 3.45.0-beta.13
 
 ### Features
