@@ -1,5 +1,11 @@
 # gradio
 
+## 3.50.3
+
+### Fixes
+
+- [#6042](https://github.com/gradio-app/gradio/pull/6042) [`e27997fe6`](https://github.com/gradio-app/gradio/commit/e27997fe6c2bcfebc7015fc26100cee9625eb13a) - Fix `root` when user is unauthenticated so that login page appears correctly.  Thanks [@abidlabs](https://github.com/abidlabs)!
+
 ## 3.50.2
 
 ### Fixes

@@ -1,5 +1,12 @@
 # @gradio/image
 
+## 0.4.5
+
+### Patch Changes
+
+- Updated dependencies [[`f2cd6cb7f`](https://github.com/gradio-app/gradio/commit/f2cd6cb7f4c118495fc4f4802363c051958bc940)]:
+  - @gradio/wasm@0.5.0
+
 ## 0.4.4
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # website
 
+## 0.10.1
+
+### Fixes
+
+- [#6052](https://github.com/gradio-app/gradio/pull/6052) [`8241f9a7b`](https://github.com/gradio-app/gradio/commit/8241f9a7bd034256aabb9efa9acb9e36216557ac) - Updated the twitter logo to its latest logo (X).  Thanks [@niranjan-kurhade](https://github.com/niranjan-kurhade)!
+
 ## 0.10.0
 
 ### Features
